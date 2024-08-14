@@ -1,11 +1,11 @@
 <pre>
     💼 ADS @ PUCPR
     💻 Passionated about tech
-    📖 
+    📖 Systems Development and Analysis
     🎮 Movies • Games • Anime • Music • Code
 </pre>
 <br><br>
-<img src="https://tenor.com/view/nen-ten-zetsu-hatsu-ren-gif-24252012" height="40" />
+<img src="https://media.tenor.com/_9oUupHN9CoAAAAM/nen-ten.gif" height="40" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/jhenifer-halma-722909300/)
