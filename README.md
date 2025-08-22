@@ -22,14 +22,10 @@
 
 <h2></h2><br>
 
-<samp>experience with:</samp>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <a href="https://github.com/jheni1e">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheni1e&layout=compact&langs_count=8&hide_progress=false&theme=github_dark"/>
+  </a>
 </p>
 
-<br>
+</div>
