@@ -1,6 +1,6 @@
 <div align="center">
 
-<pre><i>knowledge seeker.</i></pre>
+<pre><i>knowledge seeker. typing until it compiles.</i></pre>
 
 <h2></h2>
 
