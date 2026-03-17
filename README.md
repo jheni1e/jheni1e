@@ -10,7 +10,6 @@
     <samp>
       [<a href="mailto:highhalma@gmail.com">e-mail</a>]
       [<a href="https://linkedin.com/in/jheniferhalma">linkedin</a>]
-      [<a href="https://github.com/jheni1e">github</a>]
     </samp>
 </p>
 
@@ -18,6 +17,6 @@
 
 <samp>about</samp>
 
-<samp>engineering technical school — tads at pucpr — bosch digital trainee</samp>
+<samp>engineering technical school — ads at pucpr — bosch digital trainee</samp>
 
 </div>
