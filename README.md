@@ -2,9 +2,7 @@
 
 <pre><i>knowledge seeker. typing until it compiles.</i></pre>
 
-<h2></h2>
-
-<samp>links</samp>
+<samp><b># links</b></samp>
 
 <p align="center">
     <samp>
@@ -15,7 +13,7 @@
 
 <br>
 
-<samp>about</samp>
+<samp><b># about</b></samp>
 
 <samp>engineering technical school — ads at pucpr — bosch digital trainee</samp>
 
